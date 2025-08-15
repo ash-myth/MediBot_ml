@@ -1,8 +1,8 @@
-# Advanced Symptom Checker Chatbot 🤖💊
+# Medibot Chatbot 🤖💊
 
 An intelligent, ML-powered symptom checker application with natural language processing, machine learning disease prediction, and a modern GUI interface built using CustomTkinter and scikit-learn.
 
-![Symptom Checker Screenshot](screenshot.png)
+
 
 ## ✨ Features
 
@@ -312,3 +312,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for better health awareness and education**
 
 *Remember: This tool is designed to complement, not replace, professional medical care.*
+
